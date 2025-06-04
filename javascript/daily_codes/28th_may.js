@@ -61,7 +61,13 @@ const userData=[
     age:22,
     hasPassedOut:false,
     occupation:"software engineer",
-}
+},
+{
+    name:"Ransir",
+    age:23,
+    hasPassedOut:false,
+    occupation:" engineer",
+},
 ]
 
 const apiResponse={
