@@ -1,0 +1,14 @@
+var vs let
+let supports hoisting.
+var doesn't support hoisting.
+var supports block scope but let doesn't.
+
+scopes in JS:
+             block scope (things inside curly brackets{})
+             functional scope(inside function)
+             global scope(no curly brackets)
+
+      
+
+What is hoisting?/ TDZ (Temporal dead zone)
+

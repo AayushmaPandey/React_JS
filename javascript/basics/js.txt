@@ -1,0 +1,67 @@
+JavaScript datatype:
+                    Primitive                    Non-Primitive
+
+                    String                       Array
+                    Num                          Object
+                    Boolean 
+                    Null
+                    undefined
+                    Symbol
+
+Pass by value vs Pass by reference
+(Kasto datatype le kasto refernce dinxa)
+Pass by value: Primitive datatype
+Pass by reference Non-Primitive data type
+
+var vs let
+let supports hoisting.
+var doesn't support hoisting.
+var supports block scope but let doesn't.
+
+scopes in JS:
+             block scope (things inside curly brackets{})
+             functional scope(inside function)
+             global scope(no curly brackets)
+
+      
+
+What is hoisting?/ TDZ (Temporal dead zone)
+
+Array:-
+push=last element ma add garxa
+pop=last element ma bhako delete garxa
+shift=first element ma delete garxa
+unshift=first element add garxa
+
+abcDef= Camel case
+AbcDef=Pascal case
+abc_def=snake case
+abc-def=kebeb case
+
+data value in javascript 
+-truthy value 
+-falsy value
+
+console.log(1===1)true
+console.log(1==1)true
+console.log(1==="1")false
+
+array type in js = object
+1 data type in js = number
+while comparing the value in array [] it throws false
+
+nan=Not a number
+suppose backend lai chahinhe data matra dine data falne function banayerw by frontend
+  
+arrow function
+const filterEvenNum2=()=>{//having name arrow function
+    return
+}
+()=>{//having no name arrow function
+
+}
+inline js
+
+
+
+
